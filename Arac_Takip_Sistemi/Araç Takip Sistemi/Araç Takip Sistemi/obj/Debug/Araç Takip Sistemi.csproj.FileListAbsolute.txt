@@ -1,0 +1,7 @@
+C:\Users\emirh\OneDrive\Masaüstü\Araç Takip Sistemi\Araç Takip Sistemi\bin\Debug\Araç Takip Sistemi.exe.config
+C:\Users\emirh\OneDrive\Masaüstü\Araç Takip Sistemi\Araç Takip Sistemi\bin\Debug\Araç Takip Sistemi.exe
+C:\Users\emirh\OneDrive\Masaüstü\Araç Takip Sistemi\Araç Takip Sistemi\bin\Debug\Araç Takip Sistemi.pdb
+C:\Users\emirh\OneDrive\Masaüstü\Araç Takip Sistemi\Araç Takip Sistemi\obj\Debug\Araç Takip Sistemi.csproj.AssemblyReference.cache
+C:\Users\emirh\OneDrive\Masaüstü\Araç Takip Sistemi\Araç Takip Sistemi\obj\Debug\Araç Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\emirh\OneDrive\Masaüstü\Araç Takip Sistemi\Araç Takip Sistemi\obj\Debug\Araç Takip Sistemi.exe
+C:\Users\emirh\OneDrive\Masaüstü\Araç Takip Sistemi\Araç Takip Sistemi\obj\Debug\Araç Takip Sistemi.pdb

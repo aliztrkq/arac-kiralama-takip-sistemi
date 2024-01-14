@@ -1,0 +1,4 @@
+Arac|3|a|a|a|SUV
+Arac|4|a|a|a|Sedan
+Randevu|1|Emirhan|bmw|1.01.2024 00:00:00|False
+Randevu|2|Emirhan|merco|21.01.2024 00:00:00|True
